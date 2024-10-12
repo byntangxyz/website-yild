@@ -224,7 +224,7 @@ main a:hover{
   .gallery-item {
     flex-basis: 50%;
   }
-.galley-item {
+.galley-item img{
   height: 8rem;
 }
   
