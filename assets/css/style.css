@@ -224,6 +224,10 @@ main a:hover{
   .gallery-item {
     flex-basis: 50%;
   }
+.galley-item {
+  height: 8rem;
+}
+  
 .leftcolumn, .rightcolumn {   
   width: 100%;
   padding: 0;
