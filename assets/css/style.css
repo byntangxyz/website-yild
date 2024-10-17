@@ -147,6 +147,9 @@ main a:hover{
   .gallery-item {
     flex-basis: 45%;
 }
+.gallery-item{
+  max-width: 80%;
+}
 .leftcolumn, .rightcolumn {   
   width: 100%;
   padding: 0;
